@@ -97,11 +97,11 @@ the VM autometically assigns the default value to the unspecified parameter. A d
 any valid squirrel expression. The expression is evaluated at runtime.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Function with variable number of paramaters
+Function with variable number of parameters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. index::
-    single: Function with variable number of paramaters
+    single: Function with variable number of parameters
 
 Squirrel's functions can have variable number of parameters(varargs functions).
 
